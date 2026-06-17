@@ -347,29 +347,6 @@ To activate the contribution snake below, add a GitHub Actions workflow using
 Platane/snk in this profile repo (Sudhanshuy2006/Sudhanshuy2006) that generates
 and pushes the SVG to an "output" branch. Once active, the embed below will render.
 -->
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Sudhanshuy2006/Sudhanshuy2006/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
-
-<div align="center">
-
-## 🏆 Trophy Wall
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sudhanshuy2006&theme=onedark&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
-
-<div align="center">
-
 ## 🎖️ Hackathons & Recognition
 
 **GENGNITE 2025 — HackWithIndia** *(National-Level Hackathon)*
