@@ -1,212 +1,442 @@
+Conversation with Gemini
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0D0D17,00D9FF,8A5CF6,0D0D17&height=250&section=header&text=Sudhanshu%20Yadav&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=AI-Driven%20Backend%20Engineer%20%7C%20Spring%20Boot%20%7C%20System%20Architecture&descSize=20&descColor=00D9FF&descAlignY=55&animation=twinkling" />
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1B1B3A,100:00D9FF&height=220&section=header&text=Sudhanshu%20Yadav&fontSize=55&fontColor=00D9FF&fontAlignY=40&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Engineer%20%7C%20REST%20API%20Specialist&descSize=18&descColor=C0C0C0&descAlignY=62&animation=fadeIn" />
+
+
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Architecting+Scalable+Backend+Systems;%F0%9F%A4%96+Integrating+AI+%26+LLMs+into+Production;%F0%9F%9B%A1%EF%B8%8F+Securing+APIs+with+JWT+%26+Spring+Security;%F0%9F%90%B3+Containerizing+Environments+with+Docker;%F0%9F%9A%80+Ready+to+Deploy...+Open+to+Opportunities!" />
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+%E2%9A%A1;Spring+Boot+%7C+JPA+%7C+PostgreSQL+%7C+Docker;AI-Integrated+Production+Systems+%F0%9F%9A%80;Open+to+Internship+%26+Backend+Roles" />
+
+
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sudhanshu-yadav-0ab42236b/"><img src="https://img.shields.io/badge/LinkedIn-0D0D17?style=for-the-badge&logo=linkedin&logoColor=00D9FF&border=00D9FF" /></a>
-<a href="https://github.com/Sudhanshuy2006"><img src="https://img.shields.io/badge/GitHub-0D0D17?style=for-the-badge&logo=github&logoColor=8A5CF6" /></a>
-<a href="https://sidsamvardhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D17?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
-<a href="mailto:sudhanshuy213@email.com"><img src="https://img.shields.io/badge/Email-0D0D17?style=for-the-badge&logo=gmail&logoColor=8A5CF6" /></a>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sudhanshuy2006&style=for-the-badge&color=8A5CF6&labelColor=0D0D17&label=SYSTEM+PINGS" />
-<img src="https://img.shields.io/github/followers/Sudhanshuy2006?style=for-the-badge&color=00D9FF&labelColor=0D0D17&logo=github&logoColor=FFFFFF&label=NETWORK+NODES" />
+<a href="https://www.linkedin.com/in/sudhanshu-yadav-0ab42236b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=000000" /></a>
+
+<a href="https://github.com/Sudhanshuy2006"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C0C0C0&labelColor=000000" /></a>
+
+<a href="https://sidsamvardhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=8A5CF6&labelColor=000000" /></a>
+
+<a href="mailto:sudhanshuy213@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=000000" /></a>
+
+
+
+<br/>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Sudhanshuy2006&style=for-the-badge&color=00D9FF&labelColor=000000&label=PROFILE+VIEWS" />
+
+<img src="https://img.shields.io/github/followers/Sudhanshuy2006?style=for-the-badge&color=8A5CF6&labelColor=000000&logo=github&logoColor=C0C0C0" />
+
+
 
 </div>
 
+
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=4&section=header" width="100%"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+
+
+<table align="center" width="100%">
+
+<tr><td align="center">
+
+
+
+### 🛰️ About Me
+
+
+
+**Java Backend Developer** with strong hands-on expertise in **Spring Boot, JPA (Hibernate), REST APIs, CI/CD, and Docker** — building secure, scalable backend systems using **JWT authentication** and **PostgreSQL**.
+
+
+
+Built a production AI-powered KPI system that improved system efficiency by **~70%** and optimized API performance by **~40%** — backend design + problem-solving + cloud-ready (AWS) development.
+
+
+
+</td></tr>
+
+</table>
+
+
+
+<br/>
+
+
 
 <div align="center">
 
-## 🛰️ <code>[ root@sudhanshu/about-me ]_$</code>
+
+
+## ⚙️ Tech Arsenal
+
+
 
 <table>
+
 <tr>
-<td align="center" width="800" bgcolor="#0D0D17">
-<br/>
-<p align="center" style="font-family: 'Fira Code', monospace; color: #C0C0C0; font-size: 16px;">
-<b>> INITIALIZING AI_BACKEND_ENGINEER.exe ...</b><br/><br/>
-I am a <b>Java Backend Developer</b> specializing in crafting secure, highly scalable microservices and cloud-ready architectures using <b>Spring Boot, PostgreSQL, and Docker</b>.<br/><br/>
-<span style="color:#00D9FF;"><b>[ SYSTEM HIGHLIGHT ]</b></span> Built a production-grade <b>AI-powered KPI system</b> that integrated LLMs to reduce manual load by <b>70%</b> and optimized latency by <b>40%</b>.<br/><br/>
-<b>> STATUS:</b> Compiling code, hunting bugs, and deploying robust AWS solutions.
-</p>
-<br/>
-</td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><b>Java</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br/><b>Spring Boot</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=hibernate" width="48"/><br/><b>Hibernate</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><b>PostgreSQL</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/><b>MySQL</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><b>Docker</b></td>
+
 </tr>
+
+<tr>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><b>AWS</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><b>Git</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/><b>GitHub</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=maven" width="48"/><br/><b>Maven</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/><b>Postman</b></td>
+
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br/><b>IntelliJ</b></td>
+
+</tr>
+
 </table>
 
-</div>
+
 
 <br/>
+
+
+
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00D9FF&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=8A5CF6&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=springsecurity&logoColor=8A5CF6&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00D9FF&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=C0C0C0&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00D9FF&labelColor=000000"/>
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+
 
 <div align="center">
 
-## ⚙️ <code>[ TECH_ARSENAL & SUBROUTINES ]</code>
 
-<br/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,docker,aws,linux,git,github,maven,postman,idea&theme=dark&perline=7" />
-  </a>
-</p>
+## 🚀 Project Showcase
 
-<br/>
 
-<img src="https://img.shields.io/badge/RESTful_APIs-0D0D17?style=for-the-badge&logo=fastapi&logoColor=00D9FF&labelColor=0D0D17"/>
-<img src="https://img.shields.io/badge/Microservices-0D0D17?style=for-the-badge&logo=kubernetes&logoColor=8A5CF6&labelColor=0D0D17"/>
-<img src="https://img.shields.io/badge/Spring_Security-0D0D17?style=for-the-badge&logo=springsecurity&logoColor=00D9FF&labelColor=0D0D17"/>
-<img src="https://img.shields.io/badge/JWT_Auth-0D0D17?style=for-the-badge&logo=jsonwebtokens&logoColor=8A5CF6&labelColor=0D0D17"/>
-<img src="https://img.shields.io/badge/CI%2FCD_Pipelines-0D0D17?style=for-the-badge&logo=githubactions&logoColor=00D9FF&labelColor=0D0D17"/>
 
 </div>
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=4&section=header" width="100%"/>
 
-<div align="center">
+<table width="100%">
 
-## 🚀 <code>[ DEPLOYED_MODULES : PROJECTS ]</code>
-
-</div>
-
-<table width="100%" style="border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top" style="padding: 15px; border: 1px solid #2D2D44; border-radius: 10px;">
 
-### 🛡️ <span style="color:#00D9FF;">LayoffGuard AI</span> *(Live)*
-*<samp>Spring Boot · PostgreSQL · Docker · LLM</samp>*
+<td width="50%" valign="top">
 
-AI-powered platform predicting employee layoff risk using live KPIs, automated risk scoring, and dynamic upskilling pathways.
-<br/>
 
-- 🎯 **80% Accuracy** via 9+ metric KPI risk-scoring engine.
-- 🤖 **70% Manual Effort Cut** using LLM-integrated logic.
-- ⚡ **40% Latency Drop** via deep backend optimization.
-- 🐳 **Dockerized + CI/CD** (GitHub Actions) on Render.
 
-[🔗 **Initialize Repository**](https://github.com/Sudhanshuy2006/layoff-risk-system)
+### 🛡️ LayoffGuard AI — *Live*
+
+**Spring Boot · PostgreSQL · Docker · LLM Integration**
+
+
+
+AI-powered web app predicting employee layoff risk using real-world KPIs, with automated risk scoring, skill-gap analysis, and personalized upskilling recommendations.
+
+
+
+- 🎯 9+ metric KPI risk-scoring engine — **80% prediction accuracy**
+
+- 🤖 LLM-integrated insights — cut manual effort by **70%**
+
+- ⚡ Optimized backend & API response time by **40%**
+
+- 📦 Bulk CSV processing — 100+ records/request
+
+- 🐳 Dockerized + CI/CD (GitHub Actions) + Render deployment
+
+- 🧩 Modular, microservices-ready layered architecture for independent scaling
+
+
+
+`Spring Boot` `JPA/Hibernate` `Spring Security+JWT` `Docker`
+
+
+
+[🔗 View Repository](https://github.com/Sudhanshuy2006/layoff-risk-system)
+
+
+
 </td>
-<td width="50%" valign="top" style="padding: 15px; border: 1px solid #2D2D44; border-radius: 10px;">
 
-### 💪 <span style="color:#8A5CF6;">ActiFitFlow</span> *(Live)*
-*<samp>Spring Boot · MySQL · JWT · RBAC</samp>*
+<td width="50%" valign="top">
 
-Secure, high-availability backend for fitness workflows featuring stateless authentication and custom data-driven recommendation engines.
-<br/>
 
-- 🔐 **100% Secure Flow** via JWT + RBAC standard.
-- ⚡ **+35% Speed Boost** after resolving core bottlenecks.
-- 🎯 **Recommendation Engine** for activity logging.
-- 🧩 Clean layered microservice-ready architecture.
 
-[🔗 **Initialize Repository**](https://github.com/Sudhanshuy2006/ActiFlowBackendWithSecuity.Docker)
+### 💪 ActiFitFlow — *Live*
+
+**Spring Boot · MySQL · JWT · RBAC**
+
+
+
+Secure, scalable backend for fitness workflow & activity tracking with stateless authentication and a recommendation engine.
+
+
+
+- 🔐 JWT + RBAC auth flow — **100% secure access control**
+
+- ⚡ Resolved critical bugs — **+35% API response time**
+
+- 🧩 Clean layered architecture, validated REST endpoints
+
+- 🎯 Recommendation engine based on activity data
+
+- 🐳 Containerized with Docker for consistent deployment
+
+
+
+`Spring Boot` `Hibernate` `MySQL` `Docker`
+
+
+
+[🔗 View Repository](https://github.com/Sudhanshuy2006/ActiFlowBackendWithSecuity.Docker)
+
+
+
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top" style="padding: 15px; border: 1px solid #2D2D44; border-radius: 10px;">
 
-### ✉️ <span style="color:#00D9FF;">AI Email Assistant</span> *(Live)*
-*<samp>Spring Boot · Gemini AI · React Chrome Ext</samp>*
+<td width="50%" valign="top">
 
-Real-time generative AI assistant for Gmail. Automates smart-reply generation, thread summarization, and tone modulation.
-<br/>
 
-- ⚡ **~80% Time Saved** on daily drafting tasks.
-- 🎯 **45% Accuracy Boost** in context-aware responses.
-- 🔁 **Automated Triage** for faster turnaround times.
-- 🧩 Seamless React-based Chrome Extension injection.
 
-[🔗 **Initialize Repository**](https://github.com/Sudhanshuy2006/MailGenie-Chrome-Extension)
+### ✉️ AI-Powered Email Assistant — *Live*
+
+**Spring Boot · Gemini API · React Chrome Extension**
+
+
+
+AI email assistant for Gmail offering smart-reply generation, summarization, and real-time inbox suggestions.
+
+
+
+- ⚡ Cut email drafting time by **~80%**
+
+- 🎯 Improved response accuracy by **45%**
+
+- 🔁 Automated follow-ups & categorization — **50% faster turnaround**
+
+- 🧩 Chrome Extension (React) with real-time Gmail integration
+
+
+
+`Spring Boot` `Gemini API` `React` `Chrome Extension`
+
+
+
+[🔗 View Repository](https://github.com/Sudhanshuy2006/MailGenie-Chrome-Extension)
+
+
+
 </td>
-<td width="50%" valign="top" style="padding: 15px; border: 1px solid #2D2D44; border-radius: 10px;">
 
-### 💼 <span style="color:#8A5CF6;">Cyber Portfolio</span>
-*<samp>JavaScript · HTML/CSS · Responsive Design</samp>*
+<td width="50%" valign="top">
 
-My personal command center. A sleek, responsive, and performance-optimized portal for recruiters and collaborators.
-<br/>
 
-- 🎨 **Neon Cyberpunk Aesthetic** tailored for speed.
-- 📱 Fully responsive across all viewport dimensions.
-- 🔗 Centralized routing to all my active servers.
 
-[🔗 **Initialize Repository**](https://github.com/Sudhanshuy2006/SidPortfolio)
+### 💼 SidPortfolio
+
+**JavaScript · Responsive Web Design**
+
+
+
+Personal portfolio site showcasing projects, skills, and an easy way for recruiters to connect.
+
+
+
+- 🎨 Modern, responsive personal brand site
+
+- 🔗 Centralized hub for all projects & contact info
+
+
+
+`JavaScript` `HTML/CSS` `Responsive Design`
+
+
+
+[🔗 View Repository](https://github.com/Sudhanshuy2006/SidPortfolio)
+
+
+
 </td>
+
 </tr>
+
 </table>
 
+
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=4&section=header" width="100%"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+
 
 <div align="center">
 
-## 📊 <code>[ SYSTEM_TELEMETRY : GITHUB STATS ]</code>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudhanshuy2006&theme=radical&row=1&column=6&margin-w=15&no-frame=true&no-bg=true" />
-</a>
 
-<br/><br/>
+## 📊 GitHub Analytics
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshuy2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D17&title_color=00D9FF&icon_color=8A5CF6&text_color=C0C0C0&ring_color=00D9FF" width="48%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshuy2006&theme=tokyonight&hide_border=true&background=0D0D17&ring=00D9FF&fire=8A5CF6&currStreakLabel=00D9FF&sideLabels=C0C0C0&currStreakNum=FFFFFF&sideNums=C0C0C0&dates=727272" width="48%" />
 
+
+
 <br/>
+
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshuy2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D17&title_color=00D9FF&text_color=C0C0C0" width="48%" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshuy2006&theme=tokyo-night&bg_color=0D0D17&color=00D9FF&line=8A5CF6&point=FFFFFF&hide_border=true" width="48%" />
 
-</div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=4&section=header" width="100%"/>
-
-<div align="center">
-
-## 🏆 <code>[ ACHIEVEMENTS : UNLOCKED ]</code>
-
-<table width="800">
-<tr>
-<td align="center" bgcolor="#0D0D17" style="border: 1px solid #8A5CF6; border-radius: 8px; padding: 20px;">
-<h3>🔥 GENGNITE 2025 — HackWithIndia 🔥</h3>
-<p style="color: #C0C0C0;"><b>National-Level AI Hackathon</b></p>
-<p style="color: #00D9FF;"><i>Engineered a high-performance AI integration under strict time constraints. Demonstrated rapid prototyping, system-level problem solving, and seamless teamwork.</i></p>
-</td>
-</tr>
-</table>
 
 </div>
 
+
+
 <br/>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+
 
 <div align="center">
 
-## 🟢 <code>[ STATUS : OPEN TO COLLABORATE ]</code>
 
-<img src="https://img.shields.io/badge/AVAILABLE_FOR-Internship%20%26%20Backend%20Roles-0D0D17?style=for-the-badge&logo=briefcase&logoColor=00D9FF&labelColor=0D0D17&color=8A5CF6" />
 
-**Focusing on high-load backend engineering, AI pipelines, and production-grade deployments.**
+## 🏆 Hackathons & Recognition
+
+
+
+**GENGNITE 2025 — HackWithIndia (National-level Hackathon)**
+
+Built an AI-powered solution under time constraints — demonstrated rapid prototyping, problem-solving, and teamwork · **Certified Participation**
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+
+
+## 💼 Open to Opportunities
+
+
+
+<img src="https://img.shields.io/badge/AVAILABLE_FOR-Internship%20%26%20Java%20Backend%20Developer%20Roles-000000?style=for-the-badge&logo=briefcase&logoColor=00D9FF&labelColor=1B1B3A" />
+
+
+
+**Focused on scalable backend engineering, cloud-native applications, and production-grade software development.**
+
+
+
+</div>
+
+
+
+<br/>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
+
+
+
+<div align="center">
+
+
+
+## 📬 Let's Connect
+
+
+
+<a href="https://www.linkedin.com/in/sudhanshu-yadav-0ab42236b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=000000" /></a>
+
+<a href="https://github.com/Sudhanshuy2006"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=C0C0C0&labelColor=000000" /></a>
+
+<a href="mailto:sudhanshuy213@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=000000" /></a>
+
+<a href="https://sidsamvardhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=8A5CF6&labelColor=000000" /></a>
+
+
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sudhanshu-yadav-0ab42236b/"><img src="https://img.shields.io/badge/LinkedIn-0D0D17?style=for-the-badge&logo=linkedin&logoColor=00D9FF" /></a>
-<a href="https://github.com/Sudhanshuy2006"><img src="https://img.shields.io/badge/GitHub-0D0D17?style=for-the-badge&logo=github&logoColor=8A5CF6" /></a>
-<a href="mailto:sudhanshuy213@email.com"><img src="https://img.shields.io/badge/Email-0D0D17?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
 
-<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0D0D17,8A5CF6,00D9FF,0D0D17&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:1B1B3A,100:000000&height=100&section=footer" width="100%"/>
+
+
 
 </div>
