@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=260&section=header&text=SUDHANSHU%20YADAV&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20S%20D%20E%20%7C%20AI-Integrated%20Backend%20Systems&descSize=18&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=260&section=header&text=SUDHANSHU%20YADAV&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20SDE%20%7C%20AI-Integrated%20Backend%20Systems&descSize=18&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
@@ -337,7 +337,7 @@ Built an AI-powered solution under time constraints — demonstrating rapid prot
 
 ## 💼 Open to Opportunities
 
-<img src="https://img.shields.io/badge/AVAILABLE_FOR-Internship%20%26%20Java%20Backend%20Developer%20Roles-000000?style=for-the-badge&logo=briefcase&logoColor=00F5FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AVAILABLE_FOR-Contribute%20%26%20Java%20Backend%20Developer%20Roles-000000?style=for-the-badge&logo=briefcase&logoColor=00F5FF&labelColor=0D1117" />
 
 **Focused on scalable backend engineering, cloud-native applications, and production-grade AI-integrated software.**
 
