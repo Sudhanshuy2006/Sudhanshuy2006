@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=260&section=header&text=SUDHANSHU%20YADAV&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20S%20D%20E%20%7C%20AI-Integrated Backend%20Systems&descSize=18&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=260&section=header&text=SUDHANSHU%20YADAV&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20S%20D%20E%20%7C%20AI-Integrated%20Backend%20Systems&descSize=18&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Engineering+Scalable+Backend+Systems+%E2%9A%A1;Spring+Boot+%C2%B7+JPA+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+AWS;Shipping+AI-Integrated Backend+Production+Software+%F0%9F%9A%80;Open+to+Contribute+%26+Backend+Developer+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Engineering+Scalable+Backend+Systems+%E2%9A%A1;Spring+Boot+%C2%B7+JPA+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+AWS;Shipping+AI-Integrated+Backend+Production+Software+%F0%9F%9A%80;Open+to+Contribute+%26+Backend+Developer+Roles" />
 
 <br/><br/>
 
@@ -123,11 +123,10 @@ $ deployments --list
 | **PostgreSQL / MySQL** | `████████░░` |
 | **REST API Design** | `█████████░` |
 | **Docker / Containerization** | `████████░░` |
-| **CI/CD (GitHub Actions)** | `███████░░░` 
+| **CI/CD (GitHub Actions)** | `███████░░░` |
 | **AWS** | `██████░░░░` |
 | **Microservice** | `█████░░░░░` |
 | **Linux** | `█████████░` |
-
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
@@ -188,6 +187,8 @@ flowchart LR
 <table align="center" width="90%"><tr><td>
 
 Engineering production-grade backend systems that fuse traditional Spring Boot architecture with AI-driven intelligence — focused on scalability, secure-by-design APIs, and measurable business impact. Currently expanding expertise in microservices, AWS, distributed systems, load balancing, and cloud-native architecture to build resilient, scalable, and high-performance applications.
+
+</td></tr></table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
@@ -279,6 +280,9 @@ Chrome extension paired with a Spring Boot backend that brings LLM-powered draft
 
 </td>
 <td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
@@ -317,6 +321,9 @@ To activate the contribution snake below, add a GitHub Actions workflow using
 Platane/snk in this profile repo (Sudhanshuy2006/Sudhanshuy2006) that generates
 and pushes the SVG to an "output" branch. Once active, the embed below will render.
 -->
+
+<div align="center">
+
 ## 🎖️ Hackathons & Recognition
 
 **GENGNITE 2025 — HackWithIndia** *(National-Level Hackathon)*
