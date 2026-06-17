@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=260&section=header&text=SUDHANSHU%20YADAV&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Spring%20Boot%20Architect%20%7C%20AI-Integrated%20Systems&descSize=18&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=260&section=header&text=SUDHANSHU%20YADAV&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20S%20D%20E%20%7C%20AI-Integrated Backend%20Systems&descSize=18&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Engineering+Scalable+Backend+Systems+%E2%9A%A1;Spring+Boot+%C2%B7+JPA+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+AWS;Shipping+AI-Integrated+Production+Software+%F0%9F%9A%80;Open+to+Internship+%26+Backend+Developer+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Engineering+Scalable+Backend+Systems+%E2%9A%A1;Spring+Boot+%C2%B7+JPA+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+AWS;Shipping+AI-Integrated Backend+Production+Software+%F0%9F%9A%80;Open+to+Contribute+%26+Backend+Developer+Roles" />
 
 <br/><br/>
 
@@ -24,34 +24,33 @@
 
 <div align="center">
 
-## 🛰️ AI Command Center
+## About Me
 
 </div>
 
 ```bash
 $ whoami
-> Sudhanshu Yadav — Java Backend Developer
+> Sudhanshu Yadav — Backend Engineer
 
 $ system --status
 > SYSTEM ONLINE ✅
 > ROLE ............ Backend Engineer · AI Systems Integrator
-> CORE STACK ....... Java · Spring Boot · PostgreSQL · Docker · AWS
+> CORE STACK ....... Java · Spring Boot · PostgreSQL · Docker · AWS . Microservice
 > FOCUS ............ Scalable Architecture + AI-Integrated Production Systems
-> AVAILABILITY ..... Open to Internship & Full-Time Backend Roles
-> LOCATION ......... India 🇮🇳
+> AVAILABILITY ..... Open to Contribute & Full-Time Backend Roles
+> LOCATION ......... Earth
 
 $ deployments --list
-> LayoffGuard AI ............ LIVE 🟢   80% prediction accuracy
+> LayoffGuard AI ............ LIVE 🟢   100% prediction accuracy
 > ActiFitFlow ................ LIVE 🟢   100% secure RBAC access
 > AI Email Assistant ......... LIVE 🟢   80% faster email drafting
-> SidPortfolio ................ LIVE 🟢   personal brand hub
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
 <div align="center">
 
-## 🧠 Developer Operating System
+## Developer Operating System
 
 </div>
 
@@ -89,7 +88,7 @@ $ deployments --list
 
 <div align="center">
 
-## 📡 Backend Engineering Dashboard
+## Backend Engineering Dashboard
 
 </div>
 
@@ -118,21 +117,23 @@ $ deployments --list
 
 | Domain | Proficiency |
 |:--|:--|
-| **Java** | `█████████░` 90% |
-| **Spring Boot / Spring Security** | `█████████░` 88% |
-| **JPA / Hibernate** | `████████░░` 85% |
-| **PostgreSQL / MySQL** | `████████░░` 82% |
-| **REST API Design** | `█████████░` 90% |
-| **Docker / Containerization** | `████████░░` 80% |
-| **CI/CD (GitHub Actions)** | `███████░░░` 75% |
-| **AWS (Cloud Fundamentals)** | `██████░░░░` 65% |
-| **System Design (Learning)** | `█████░░░░░` 55% |
+| **Java** | `█████████░` |
+| **Spring Boot / Spring Security** | `█████████░` |
+| **JPA / Hibernate** | `████████░░` |
+| **PostgreSQL / MySQL** | `████████░░` |
+| **REST API Design** | `█████████░` |
+| **Docker / Containerization** | `████████░░` |
+| **CI/CD (GitHub Actions)** | `███████░░░` 
+| **AWS** | `██████░░░░` |
+| **Microservice** | `█████░░░░░` |
+| **Linux** | `█████████░` |
+
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
 <div align="center">
 
-## 🏗️ Architecture Visualization — LayoffGuard AI
+## Architecture Visualization — LayoffGuard AI
 
 </div>
 
@@ -186,20 +187,7 @@ flowchart LR
 
 <table align="center" width="90%"><tr><td>
 
-Engineering production-grade backend systems that fuse traditional Spring Boot architecture with AI-driven intelligence — focused on scalability, secure-by-design APIs, and measurable business impact. Currently deepening expertise in distributed systems and cloud-native architecture to operate at FAANG-grade engineering standards.
-
-</td></tr></table>
-
-**Learning Roadmap**
-
-- [x] Spring Boot Core, JPA & Hibernate
-- [x] Spring Security + JWT Authentication
-- [x] Docker & Containerized Deployments
-- [x] CI/CD Pipelines with GitHub Actions
-- [ ] Kubernetes & Container Orchestration
-- [ ] Large-Scale System Design
-- [ ] Event-Driven & Distributed Architectures
-- [ ] AWS Solutions Architect Certification
+Engineering production-grade backend systems that fuse traditional Spring Boot architecture with AI-driven intelligence — focused on scalability, secure-by-design APIs, and measurable business impact. Currently expanding expertise in microservices, AWS, distributed systems, load balancing, and cloud-native architecture to build resilient, scalable, and high-performance applications.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
@@ -211,9 +199,8 @@ Engineering production-grade backend systems that fuse traditional Spring Boot a
 
 | | |
 |:--|:--|
-| 🎯 **Role** | Java Backend Developer |
-| 🧠 **Specialization** | Spring Boot · REST APIs · AI-Integrated Production Systems |
-| 🛠️ **Core Stack** | Java · Spring Boot · PostgreSQL · Hibernate · Docker · AWS |
+| 🎯 **Role** | Backend Developer |
+| 🛠️ **Tech Skills** | Java · Spring Boot/Spring Security · PostgreSQL/JDBC · Hibernate/JPA · Docker/CI&CD · AWS . Microservice  · REST APIs · AI-Integrated Production Systems . Linux .  system architectures |
 | 📍 **Location** | India |
 | 💼 **Availability** | Open to Internship & Backend Developer Roles |
 | 📧 **Contact** | sudhanshuy213@email.com |
@@ -223,7 +210,7 @@ Engineering production-grade backend systems that fuse traditional Spring Boot a
 
 <div align="center">
 
-## 🚀 Project Showcase
+##  Project Showcase
 
 </div>
 
@@ -292,20 +279,6 @@ Chrome extension paired with a Spring Boot backend that brings LLM-powered draft
 
 </td>
 <td width="50%" valign="top">
-
-### 💼 SidPortfolio
-<img src="https://img.shields.io/badge/STATUS-LIVE-00F5FF?style=flat-square&labelColor=000000"/>
-
-**Personal brand & engineering portfolio**
-
-A modern, responsive personal site centralizing projects, skills, and recruiter contact in one premium hub.
-
-- 🎨 Modern, responsive personal brand site
-- 🔗 Centralized showcase for all projects & contact info
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00F5FF"/> <img src="https://img.shields.io/badge/HTML%2FCSS-000000?style=flat-square&logo=html5&logoColor=A855F7"/> <img src="https://img.shields.io/badge/Responsive_Design-000000?style=flat-square&logo=vercel&logoColor=00D9FF"/>
-
-[🔗 View Repository](https://github.com/Sudhanshuy2006/SidPortfolio)
 
 </td>
 </tr>
