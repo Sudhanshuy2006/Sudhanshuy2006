@@ -335,11 +335,11 @@ Built an AI-powered solution under time constraints — demonstrating rapid prot
 
 <div align="center">
 
-## 💼 Open to Opportunities
+## 💼 Open to Opportunitie
 
 <img src="https://img.shields.io/badge/AVAILABLE_FOR-Contribute%20%26%20Java%20Backend%20Developer%20Roles-000000?style=for-the-badge&logo=briefcase&logoColor=00F5FF&labelColor=0D1117" />
 
-**Focused on scalable backend engineering, cloud-native applications, and production-grade AI-integrated software.**
+**Focused on scalable backend engineering, cloud-native applications, and Microservice production-grade AI-integrated software.**
 
 </div>
 
@@ -347,7 +347,7 @@ Built an AI-powered solution under time constraints — demonstrating rapid prot
 
 <div align="center">
 
-## 📬 Let's Connect
+## 📬 Connect
 
 <a href="https://www.linkedin.com/in/sudhanshu-yadav-0ab42236b/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=000000" /></a>
 <a href="https://github.com/Sudhanshuy2006"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D1D5DB&labelColor=000000" /></a>
