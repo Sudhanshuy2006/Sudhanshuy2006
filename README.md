@@ -13,6 +13,11 @@
 <a href="https://sidsamvardhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=8A5CF6&labelColor=000000" /></a>
 <a href="mailto:sudhanshuy213@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=000000" /></a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sudhanshuy2006&style=for-the-badge&color=00D9FF&labelColor=000000&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Sudhanshuy2006?style=for-the-badge&color=8A5CF6&labelColor=000000&logo=github&logoColor=C0C0C0" />
+
 </div>
 
 <br/>
@@ -59,6 +64,7 @@ Built a production AI-powered KPI system that improved system efficiency by **~7
 <br/>
 
 <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00D9FF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=kubernetes&logoColor=8A5CF6&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Spring_Security-000000?style=for-the-badge&logo=springsecurity&logoColor=8A5CF6&labelColor=000000"/>
 <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00D9FF&labelColor=000000"/>
 <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=C0C0C0&labelColor=000000"/>
@@ -90,6 +96,7 @@ AI-powered web app predicting employee layoff risk using real-world KPIs, with a
 - ⚡ Optimized backend & API response time by **40%**
 - 📦 Bulk CSV processing — 100+ records/request
 - 🐳 Dockerized + CI/CD (GitHub Actions) + Render deployment
+- 🧩 Modular, microservices-ready layered architecture for independent scaling
 
 `Spring Boot` `JPA/Hibernate` `Spring Security+JWT` `Docker`
 
