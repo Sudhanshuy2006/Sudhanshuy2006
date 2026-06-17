@@ -279,9 +279,6 @@ Chrome extension paired with a Spring Boot backend that brings LLM-powered draft
 
 </td>
 <td width="50%" valign="top">
-
-</td>
-</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
