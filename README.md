@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=220&section=header&text=SUDHANSHU%20YADAV&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Fresher%20%7C%20AI-Integrated%20Backend%20Systems&descSize=16&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=220&section=header&text=SUDHANSHU%20YADAV&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Scalable%20Backend%20Systems&descSize=16&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Building+Backend+Systems+with+Spring+Boot+%E2%9A%A1;Spring+Boot+%C2%B7+JPA+%C2%B7+PostgreSQL%2FMySQL+%C2%B7+Docker;Integrating+LLMs+into+Real+Backend+Workflows+%F0%9F%9A%80;Shipping+Live+Projects%2C+Not+Just+Tutorials" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Building+Backend+Systems+with+Spring+Boot+%E2%9A%A1;Spring+Boot+%C2%B7+JPA+%C2%B7+PostgreSQL%2FMySQL+%C2%B7+Docker;Integrating+LLMs+into+Real+Backend+Workflows+%F0%9F%9A%80;Focused+on+Scalable+Backend+Systems" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a final-year BCA student and self-taught Java backend developer. Started with zero industry experience — over the last few months I've independently designed, built, and deployed three full-stack backend systems, each integrating a real LLM API into the core workflow rather than bolting AI on as an afterthought.
+Java Backend Developer focused on designing and shipping scalable backend systems. Independently designed, built, and deployed three full-stack backend systems, each integrating a real LLM API into the core workflow rather than bolting AI on as an afterthought.
 
 - 🎯 **Focus:** Spring Boot backend systems with clean layered architecture (Controller-Service-Repository)
 - 🤖 **AI-native workflow:** Using Groq (LLaMA 3.3-70B) and Gemini for production features, plus Claude/GitHub Copilot as daily coding assistants
