@@ -162,10 +162,10 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshuy2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A855F7&text_color=D1D5DB" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshuy2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=D1D5DB" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Sudhanshuy2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A855F7&text_color=D1D5DB" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sudhanshuy2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=D1D5DB" width="48%" />
 
-<sub>If the cards above don't render, GitHub's stats API is temporarily rate-limited — refresh the page.</sub>
+<sub>Cards may take a few seconds to load on first view — GitHub caches them after that.</sub>
 
 </div>
 
