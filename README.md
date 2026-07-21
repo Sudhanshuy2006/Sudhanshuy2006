@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0D1117,60:6C63FF,100:00F5FF&height=220&section=header&text=SUDHANSHU%20YADAV&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Fresher%20%7C%20AI-Integrated%20Backend%20Systems&descSize=16&descColor=D1D5DB&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Building+Backend+Systems+with+Spring+Boot+%E2%9A%A1;Spring+Boot+%C2%B7+JPA+%C2%B7+PostgreSQL%2FMySQL+%C2%B7+Docker;Integrating+LLMs+into+Real+Backend+Workflows+%F0%9F%9A%80;Open+to+Backend+Developer+%26+Intern+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Building+Backend+Systems+with+Spring+Boot+%E2%9A%A1;Spring+Boot+%C2%B7+JPA+%C2%B7+PostgreSQL%2FMySQL+%C2%B7+Docker;Integrating+LLMs+into+Real+Backend+Workflows+%F0%9F%9A%80;Shipping+Live+Projects%2C+Not+Just+Tutorials" />
 
 <br/>
 
@@ -21,8 +21,8 @@ I'm a final-year BCA student and self-taught Java backend developer. Started wit
 
 - 🎯 **Focus:** Spring Boot backend systems with clean layered architecture (Controller-Service-Repository)
 - 🤖 **AI-native workflow:** Using Groq (LLaMA 3.3-70B) and Gemini for production features, plus Claude/GitHub Copilot as daily coding assistants
-- 📚 **Currently:** Solving DSA on LeetCode, deepening AWS and system-design fundamentals
-- 💼 **Open to:** Backend Developer & Java Developer Internship roles
+- 📚 **Currently:** Solving DSA on LeetCode, deepening advanced AWS and microservices fundamentals
+- 📊 **170+ GitHub contributions** and counting
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
@@ -147,7 +147,10 @@ flowchart LR
 
 ## Currently Learning
 
-Deepening my understanding of **AWS (EC2, S3, RDS), distributed systems, load balancing, and microservices patterns** — moving from single-service layered architecture toward cloud-native, horizontally scalable systems.
+- 🧩 **DSA** — solving arrays, strings, linked lists, sorting/searching problems on LeetCode
+- ☁️ **Advanced AWS** — EC2, S3, RDS, and cloud-native deployment patterns
+- 🧱 **Advanced Microservices** — service decomposition, inter-service communication, and distributed backend systems
+- ⚖️ Load balancing and horizontally scalable architecture — moving beyond single-service layered design
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
@@ -155,8 +158,14 @@ Deepening my understanding of **AWS (EC2, S3, RDS), distributed systems, load ba
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshuy2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A855F7&text_color=D1D5DB&ring_color=00D9FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshuy2006&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=A855F7&currStreakLabel=00F5FF&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=D1D5DB" width="48%" />
+<img src="https://img.shields.io/badge/Contributions-170%2B-00F5FF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshuy2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=A855F7&text_color=D1D5DB" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshuy2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=D1D5DB" width="48%" />
+
+<sub>If the cards above don't render, GitHub's stats API is temporarily rate-limited — refresh the page.</sub>
 
 </div>
 
